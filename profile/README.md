@@ -8,4 +8,8 @@ QuanteX explores fundamental and applied physics, quantum computing and scientif
 
 **Our own work, and only ours.** Everything we publish here is our own, built from public data and synthetic examples. It never includes client data, client projects, or anyone else's confidential information or intellectual property.
 
+## Public projects
+
+- [qscout](https://github.com/quantexlabs/qscout): an offline post-quantum cryptography inventory that finds quantum-vulnerable cryptography and writes a CycloneDX 1.6 CBOM and an accessible report.
+
 Contact: info@quantexlabs.ca | Website: https://quantexlabs.ca/
