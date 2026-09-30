@@ -1,3 +1,10 @@
+<p align="center" class="brand-mark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/quantex-mark-dark.png">
+    <img src="brand/quantex-mark.png" alt="QuanteX Labs" width="140">
+  </picture>
+</p>
+
 # QuanteX Labs Inc.
 
 QuanteX explores fundamental and applied physics, quantum computing and scientific simulation. Public repositories may contain models, benchmarks or research software, with assumptions and limitations stated alongside results. We do not claim quantum advantage or hardware performance from research prototypes.
