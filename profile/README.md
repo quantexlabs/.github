@@ -13,7 +13,9 @@ QuanteX explores fundamental and applied physics, quantum computing and scientif
 
 **We build in the open.** QuanteX Labs Inc. publishes its tools, methods and learning materials under open licences (usually Apache-2.0 for code and CC BY 4.0 for written material), so public-interest teams can use them, check how they work and adapt them freely. Open work is easier to trust, because anyone can see exactly how a result is produced.
 
-**Our own work, and only ours.** Everything we publish here is our own, built from public data and synthetic examples. It never includes client data, client projects, or anyone else's confidential information or intellectual property.
+**Our own work, with credited open-source parts.** We build what we publish here from public data and synthetic examples. Where a repository uses open-source parts made by others, it names them and their licences. It never includes client data, client projects, or anyone else's confidential information.
+
+How we work: our own code and documentation in these repositories were written with AI coding assistants and reviewed, tested and revised by Amir Daneshpajouh; open-source parts made by others are credited where used.
 
 ## Public projects
 
