@@ -7,7 +7,7 @@
 
 # QuanteX Labs Inc.
 
-QuanteX explores fundamental and applied physics, quantum computing and scientific simulation. Public repositories may contain models, benchmarks or research software, with assumptions and limitations stated alongside results. We do not claim quantum advantage or hardware performance from research prototypes.
+QuanteX explores fundamental and applied physics, quantum computing and scientific simulation. Its public work so far is qscout, an offline post-quantum cryptography inventory tool, and pqc-readiness, a fixture-based prototype for reviewing cryptographic observations. Public repositories may contain models, benchmarks or research software, with assumptions and limitations stated alongside results. We do not claim quantum advantage or hardware performance from research prototypes.
 
 ## Open by design
 
@@ -18,5 +18,6 @@ QuanteX explores fundamental and applied physics, quantum computing and scientif
 ## Public projects
 
 - [qscout](https://github.com/quantexlabs/qscout): an offline post-quantum cryptography inventory that finds quantum-vulnerable cryptography and writes a CycloneDX 1.6 CBOM and an accessible report.
+- [pqc-readiness](https://github.com/quantexlabs/pqc-readiness): a fixture-based Python prototype for reviewing cryptographic observations.
 
 Contact: info@quantexlabs.ca | Website: https://quantexlabs.ca/
